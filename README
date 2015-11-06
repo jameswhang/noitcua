@@ -1,0 +1,15 @@
+## noitcua
+
+a.k.a. auction, reversed. 
+
+## How it works
+
+- Buyers post whatever they wanna buy 
+- Sellers bid 
+- Lowest bidder wins
+- Buyer can choose whether to accept that bid or not
+
+## Installation Guide 
+
+Run the following commands:
+- sqlite3 /tmp/noitcua.db < schema.sql
